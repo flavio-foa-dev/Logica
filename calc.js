@@ -10,4 +10,5 @@ console.log(values)
 
 const result = Math.floor(Math.random() * values.length)
 console.log(result, values[result])
+
 console.log(calc[values[result]](10,5));
