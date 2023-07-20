@@ -1,7 +1,4 @@
 # Logica
 
-
-### equipe Amarela
-
-- encode
-- decode
+- [moneyCounter](moneyCounter.js)
+- [calc](calc.js)
