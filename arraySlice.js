@@ -40,3 +40,4 @@ function orderByArr(a, b) {
 
 console.log(mergeSort(listB))
 
+
