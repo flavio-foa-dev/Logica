@@ -34,3 +34,8 @@ O(cn)	exponencial
 A notação O grande não é usada apenas em computação, mas também em várias áreas da matemática e existem outras notações na lista além dos exemplos que utilizamos.
 
 Se quiser saber mais e ter outros exemplos de notações relacionadas a algoritmos comuns em programação, o site Big O cheatsheet (em inglês) fornece ótimo material para estudo.
+
+Aplicamos novamente o paradigma “dividir para conquistar” para desenvolver o algoritmo de busca chamado busca binária;
+Utilizamos recursão para manipular um array ordenado e buscar um elemento, seguindo o fluxo da busca binária que foi visto nas simulações e testes;
+Desenvolvemos código em JavaScript para implementar o algoritmo de busca binária;
+Continuamos a prática de funções recursivas, vendo o funcionamento do “caso base”, que pode ser considerada como a condição de parada de uma função recursiva.

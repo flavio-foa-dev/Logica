@@ -23,4 +23,4 @@ function getBinary(arr, de, ate, valor) {
     return getBinary(arr, MEIO + 1, ate, valor)
   }
 }
-console.log(getBinary(data, 0, data.length-1, 5))
+console.log(getBinary(data, 0, data.length-1, 36))
