@@ -48,7 +48,6 @@ function solutionn(A) {
 
  function findSmallestUniqueNumber(A) {
   A.sort((a, b) => a - b); // Classificar o array em ordem crescente
-
   let smallestUniqueNumber = 1;
 
   for (let value of A) {
@@ -59,6 +58,9 @@ function solutionn(A) {
     }
   }
 
+  console.log(smallestUniqueNumber)
   return smallestUniqueNumber;
 }
+
+findSmallestUniqueNumber([5,1,2,7])
 
