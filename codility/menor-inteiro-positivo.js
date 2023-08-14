@@ -32,13 +32,13 @@ function solution(A) {
 // exemplo 2
 function solutionn(A) {
   A.sort();
-  let menorNumeroUnico = A[0]
+  let smallUniqueNumber = A[0]
   for(let value of A){
-    if(menorNumeroUnico === value){
-      menorNumeroUnico += 1
+    if(smallUniqueNumber === value){
+      smallUniqueNumber += 1
     }
   }
-  return menorNumeroUnico < 1 ?  menorNumeroUnico = 1 : menorNumeroUnico
+  return smallUniqueNumber < 1 ?  smallUniqueNumber = 1 : smallUniqueNumber
 }
 
  console.log("solucao",solution([-1, -3]))
@@ -46,4 +46,19 @@ function solutionn(A) {
  console.log("solucao" ,solution([1, 2, 3]))
 
 
+ function findSmallestUniqueNumber(A) {
+  A.sort((a, b) => a - b); // Classificar o array em ordem crescente
+
+  let smallestUniqueNumber = 1;
+
+  for (let value of A) {
+    if (value === smallestUniqueNumber) {
+      smallestUniqueNumber++;
+    } else if (value > smallestUniqueNumber) {
+      break; // Uma vez que o array está classificado, não precisamos continuar procurando
+    }
+  }
+
+  return smallestUniqueNumber;
+}
 
