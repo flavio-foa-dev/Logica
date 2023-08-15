@@ -17,11 +17,11 @@ function promisyfy(fn, hasCallback = true) {
   }
 
   return new Promise(function(resolve, reject){
-    fn(...args, (err, esponse) => {
+    fn(...args, (err, response) => {
       if (err) {
         reject(err);
       }else {
-        resolve(esponse);
+        resolve(response);
       }
     })
   })
