@@ -23,3 +23,12 @@
 - Domain-Driven Design (DDD) - O que é? design orientado ou dominio = DDD
 - O que é Mensageria? Message Brokers
 - Modelagem de eventos = descreve um sistema, descrever sistemas atraves do evento.
+- O que é uma arquitetura orientada a eventos?
+
+2. API e REST
+   A computação no geral é muito dinâmica e evolue em um ritmo bastante acelerado. Na engenharia de software não poderia ser diferente.
+   Hoje em dia é bem comum a utilização de APIs que seguem o modelo REST no desenvolvimento de aplicações multiplataforma, sendo muito importante entender sobre tais assuntos.
+
+- O que é uma API?
+- O que é REST?
+- Boas práticas na Modelagem de API's REST
