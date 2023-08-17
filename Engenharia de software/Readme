@@ -1,0 +1,25 @@
+### Engenharia de software é uma das áreas da computação cujo foco está relacionado com análise, desenvolvimento e manutenção de softwares, bem como gestão de projetos e times.
+
+É uma área bastante extensa, pois contempla as diversas disciplinas necessárias durante todo o processo de criação e manutenação de softwares, tais como:
+
+- Gestão de requisitos;
+- Arquitetura e design de sistemas;
+- Padrões de projeto;
+- Banco de dados;
+- Testes de software;
+- Gestão de projetos;
+- Infraestrutura
+- deploy.
+
+1. Design e Arquitetura
+   Escrever o código de um software que deve atender as necessidades de negócios de uma organização é uma tarefa complexa. São milhares de linhas de código que precisam ser simples e entender e manter, permitindo que o software seja facilmente adaptado às mudanças que surgem com o tempo.
+
+   Justamente por isso é essencial que o time de desenvolvimento projete uma arquitetura de software que seja simples de manter e evoluir, assim como o design do código escrito que precisa seguir padrões que garantam tais carascterísticas.
+
+- Arquitetura de software = visao de mais alto nivel, separacao de pastas de camadas da aplicacaoclean arquitet arquitetura exagonal oner arquitet
+- Design de código visao de mais baixo nivel como escrever cada classe quais padroes aplicar = design parttenes, domain driven design solid dry kiss principio POO
+- O que é arquitetura hexagonal ou Ports and Adapters?  domain Drives Disgner = regra do negocio/ dominio
+- Clean Architecture (Arquitetura Limpa) - O que é?  MVC MSC = Clen Architecture
+- Domain-Driven Design (DDD) - O que é? design orientado ou dominio = DDD
+- O que é Mensageria? Message Brokers
+- Modelagem de eventos = descreve um sistema, descrever sistemas atraves do evento.
