@@ -12,9 +12,9 @@
 - deploy.
 
 1. Design e Arquitetura
-   Escrever o código de um software que deve atender as necessidades de negócios de uma organização é uma tarefa complexa. São milhares de linhas de código que precisam ser simples e entender e manter, permitindo que o software seja facilmente adaptado às mudanças que surgem com o tempo.
+    Escrever o código de um software que deve atender as necessidades de negócios de uma organização é uma tarefa complexa. São milhares de linhas de código que precisam ser simples e entender e manter, permitindo que o software seja facilmente adaptado às mudanças que surgem com o tempo.
 
-   Justamente por isso é essencial que o time de desenvolvimento projete uma arquitetura de software que seja simples de manter e evoluir, assim como o design do código escrito que precisa seguir padrões que garantam tais carascterísticas.
+    Justamente por isso é essencial que o time de desenvolvimento projete uma arquitetura de software que seja simples de manter e evoluir, assim como o design do código escrito que precisa seguir padrões que garantam tais carascterísticas.
 
 - Arquitetura de software = visao de mais alto nivel, separacao de pastas de camadas da aplicacaoclean arquitet arquitetura exagonal oner arquitet
 - Design de código visao de mais baixo nivel como escrever cada classe quais padroes aplicar = design parttenes, domain driven design solid dry kiss principio POO
@@ -26,8 +26,8 @@
 - O que é uma arquitetura orientada a eventos?
 
 2. API e REST
-   A computação no geral é muito dinâmica e evolue em um ritmo bastante acelerado. Na engenharia de software não poderia ser diferente.
-   Hoje em dia é bem comum a utilização de APIs que seguem o modelo REST no desenvolvimento de aplicações multiplataforma, sendo muito importante entender sobre tais assuntos.
+    A computação no geral é muito dinâmica e evolue em um ritmo bastante acelerado. Na engenharia de software não poderia ser diferente.
+    Hoje em dia é bem comum a utilização de APIs que seguem o modelo REST no desenvolvimento de aplicações multiplataforma, sendo muito importante entender sobre tais assuntos.
 
 - O que é uma API?
 - O que é REST?
@@ -35,7 +35,7 @@
 
 3. Microsserviços
 
-  É comum alguns softwares possuirem centenas de funcionalidades, o que os tornam bastante complexos de realizar manutenções de melhorias e ajustes. Pensando em simplificar tais tipos de software, um novo modelo de arquitetura chamado de Microsserviços surgiu e se tornou um padrão no desenvolvimento de software que são maiores e mais complexos.
+   É comum alguns softwares possuirem centenas de funcionalidades, o que os tornam bastante complexos de realizar manutenções de melhorias e ajustes. Pensando em simplificar tais tipos de software, um novo modelo de arquitetura chamado de Microsserviços surgiu e se tornou um padrão no desenvolvimento de software que são maiores e mais complexos.
 
 - O que são Microsserviços?
 - Tipos de Microservices
