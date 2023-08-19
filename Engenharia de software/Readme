@@ -43,3 +43,8 @@
 - O que é Service Mesh?
 
 microsservicos padroes de projeto
+alguns problemas
+demora no deploy
+deploy possivelmente mais perigosos
+falhas podem derrubar o sistema todo
+1 projeto 1 tecnologia 1 deploys em todo sistema
