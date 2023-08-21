@@ -48,3 +48,29 @@ demora no deploy
 deploy possivelmente mais perigosos
 falhas podem derrubar o sistema todo
 1 projeto 1 tecnologia 1 deploys em todo sistema
+
+Data service = receber dados
+Bussiness service = agrega dados mais complexos
+Trabslation services
+Edge service = servico de ponta == BFF
+
+- Separando Servicos
+servico de dominio DDD
+
+- Strangler pattern
+quebrar um monolito, tirando as funcionalidades dele
+Podemos comecar isolando os dados
+podemos comecar isolando o dominio.
+
+- Sidecar pattern
+  Determine o processo comun
+  construa um modulo compartilhavel
+  aplique esse sidecar nos servicos que precisam dele
+
+- API Gateway.
+- ter um ponto unico de acesso ao sistema
+  Dessa forma podemos ter controles de acesso unificados, autenticação em ponto único, etc. Mas essa também é a principal desvantagem: o ponto único de falha
+
+  ponto único de entrada na aplicação com API Gateway
+  Edge Service
+  ideia de ter um Gateway por cliente com o Edge Pattern
