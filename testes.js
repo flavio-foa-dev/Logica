@@ -1,2 +1,2 @@
-const data = new Date().getTime();
+const data = new Date().getFullYear();
 console.log(data)

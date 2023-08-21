@@ -74,3 +74,8 @@ podemos comecar isolando o dominio.
   ponto único de entrada na aplicação com API Gateway
   Edge Service
   ideia de ter um Gateway por cliente com o Edge Pattern
+
+CQRS
+Agora em um determinado microsserviço podemos ter a aplicação de um padrão conhecido como CQRS, que significa command query responsibility segragation, que é segregação da responsabilidade entre um comando e uma busca.
+
+Microsserviços: explorando os conceitos
