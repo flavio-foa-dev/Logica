@@ -79,3 +79,7 @@ CQRS
 Agora em um determinado microsserviço podemos ter a aplicação de um padrão conhecido como CQRS, que significa command query responsibility segragation, que é segregação da responsabilidade entre um comando e uma busca.
 
 Microsserviços: explorando os conceitos
+
+NÃO pode ser chamada de API?
+Uma URL.
+Uma URL não é uma API. Ela é uma interface do mundo externo com um servidor, mas não necessariamente uma interface de programação, ou seja, ela pode não expor funcionalidade alguma.
