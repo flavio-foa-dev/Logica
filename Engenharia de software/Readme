@@ -83,3 +83,8 @@ Microsserviços: explorando os conceitos
 NÃO pode ser chamada de API?
 Uma URL.
 Uma URL não é uma API. Ela é uma interface do mundo externo com um servidor, mas não necessariamente uma interface de programação, ou seja, ela pode não expor funcionalidade alguma.
+
+necessidade de comunicação entre serviços;
+Conhecemos técnicas de comunicação síncrona e assíncrona;
+Entendemos falhas de comunicação e algumas soluções para elas;
+Aprendemos sobre o conceito de Service Discovery e DNS.
