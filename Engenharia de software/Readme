@@ -88,3 +88,5 @@ necessidade de comunicação entre serviços;
 Conhecemos técnicas de comunicação síncrona e assíncrona;
 Entendemos falhas de comunicação e algumas soluções para elas;
 Aprendemos sobre o conceito de Service Discovery e DNS.
+Citamos técnicas de segurança em rede, como listas de IP, redes virtuais e firewall;
+Vimos a necessidade de termos várias camadas de segurança, que é o conceito de Defense in Depth.
