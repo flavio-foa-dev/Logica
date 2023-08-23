@@ -90,3 +90,12 @@ Entendemos falhas de comunicação e algumas soluções para elas;
 Aprendemos sobre o conceito de Service Discovery e DNS.
 Citamos técnicas de segurança em rede, como listas de IP, redes virtuais e firewall;
 Vimos a necessidade de termos várias camadas de segurança, que é o conceito de Defense in Depth.
+Analisamos a infraestrutura de um projeto com microsserviços;
+Vimos como tornar serviços independentes;
+Aprendemos que seguir os 12 fatores pode nos ajudar.
+
+prendemos que cada projeto pode ter seu processo de build;
+Conhecemos ferramentas como Jenkins, Travis CI e GitHub Actions;
+Criamos um workflow no GitHub Actions;
+Vimos o build falhar e o corrigimos;
+Tornamos nosso processo mais robusto, exigindo pull requests e reviews.
