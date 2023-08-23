@@ -107,3 +107,33 @@ Discutimos sobre Optimistic and Pessimistic UI Rendering;
 Conhecemos o conceito de micro frontends.
 
 ### Integracao Continua
+
+Integração Contínua (CI) significa integrar as alterações no mainline (master ou trunk) diariamente
+Para usar Integração Contínua, é necessário usar um sistema de controle de versão (VCS), e no final integramos o código no repositório (usar Git não é obrigatório)
+Aplicando Integração Contínua corretamente, diminuímos os problemas de integração (como merge hell), melhoramos a comunicação entre desenvolvedores e antecipamos a descoberta de bugs
+Os estilos de organização de projeto
+Mono-repo possui todos os projetos em um único repositório
+Multi-repo separa um repositório para cada projeto
+
+E alguns frameworks famosos da área de teste:
+
+Selenium (automação do navegador)
+Cucumber (testes de aceitação)
+Postman e SoapUI (testes de API)
+JMeter (stress tests)
+JUnit, xUnit, PHPUnit (automação de testes)
+entre muitos outros frameworks e bibliotecas
+
+Para usar integração contínua com sucesso, é preciso ter testes automatizados
+Esses testes devem verificar a maior parte do código
+TDD é uma metodologia que pode ajudar na criação dos testes
+Os testes representam feedback sobre a saúde/qualidade do seu projeto
+O desenvolvedor deve rodar os testes antes de enviar as alterações para o repositório
+Se for impossível executar todos os testes (por causa da infraestrutura ou demora da execução), é possível executar apenas os testes de unidade ou uma suíte de testes mais importantes (smoke testes)
+O build do projeto deve ser simples e totalmente automatizado
+É boa prática o uso de uma ferramenta especializada para o build do software
+Tente usar um "single command build" para executar o build
+A execução dos testes e build não deve se tornar uma razão para atrasar o build, para evitar:
+Otimize build
+Tente respeitar o tempo de 10 minutos para o build (alguns falam de 5 minutos)
+Se o build for falhar, a ideia é que ele falhe o mais rápido possível.
