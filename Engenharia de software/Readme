@@ -1,5 +1,7 @@
 ### Engenharia de software é uma das áreas da computação cujo foco está relacionado com análise, desenvolvimento e manutenção de softwares, bem como gestão de projetos e times.
 
+- git clone --recursive https://github.com/CViniciusSDias/alura-ms.git
+
 É uma área bastante extensa, pois contempla as diversas disciplinas necessárias durante todo o processo de criação e manutenação de softwares, tais como:
 
 - Gestão de requisitos;
@@ -99,3 +101,9 @@ Conhecemos ferramentas como Jenkins, Travis CI e GitHub Actions;
 Criamos um workflow no GitHub Actions;
 Vimos o build falhar e o corrigimos;
 Tornamos nosso processo mais robusto, exigindo pull requests e reviews.
+
+Falamos sobre a possibilidade de ter mais de uma aplicação front-end;
+Discutimos sobre Optimistic and Pessimistic UI Rendering;
+Conhecemos o conceito de micro frontends.
+
+### Integracao Continua
