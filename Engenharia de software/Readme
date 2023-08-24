@@ -201,3 +201,9 @@ O stage AAT é mais demorado
 Os testes de aceitação são mais caros de escrever e manter, mas trazem muito valor, pois testam o sistema todo. Os testes de aceitação são escritos pela equipe inteira (analista, desenvolvedor, etc).
 
 Quando um build quebra, todos são responsáveis. Consertar o problema é prioridade da equipe.
+
+Homologação (User Acceptance Testing Stage)
+Teste de carga (Capacity Testing Stage)
+O ambiente de homologação serve para o usuário final validar se o software atende aos requisitos e expectativas. A equipe deve participar nesses testes e eles representam uma oportunidade de aprender e receber feedback sobre a aceitação e usabilidade do software. Esses testes devem ser executados desde início do projeto.
+
+O ambiente para testes de carga serve para garantir que o software atende os requisitos não funcionais, como desempenho e carga. Os testes devem fazer parte do desenvolvimento do software e ser aplicados em ciclos. Aqui, é importante definir métricas claras e monitorar o sistema.
