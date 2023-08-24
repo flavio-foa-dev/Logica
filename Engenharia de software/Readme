@@ -275,3 +275,64 @@ Recursos de suporte a clientes: as pessoas estudantes podem acessar o suporte ao
 Isso não significa que outros ítens não possam ser adicionados neste caso, detalhando ainda mais o product backlog. Porém, os ítens citados acima seriam os mais importantes em um produto como uma plataforma de aprendizagem online. A ordem desses ítens também poderia ser alterada.
 
 Agora, se a sua resposta não foi exatamente como essa, não tem problema! O importante é você saber identificar que um product backlog eficiente deve ser detalhado, listando toda e qualquer funcionalidade e aspecto que um produto ou solução deva ter para funcionar bem e gerar valor para o seu usuário.
+
+
+Discutir com o Product Owner e o Scrum Master para avaliar a prioridade do novo requisito e, se necessário, replanejar a sprint.
+
+De acordo com o Scrum Guide, o product backlog não deve ser alterado durante uma sprint. Porém, em situações onde um novo requisito de alta prioridade é identificado durante a sprint planning, a equipe de desenvolvimento deve discutir com as pessoas Product Owner e Scrum Master para avaliar a prioridade do novo requisito e determinar se ele deve ser incluído na sprint atual ou se será adicionado em uma próxima sprint.
+
+A sprint é um período de tempo fixo, geralmente de 1 a 4 semanas, durante o qual a equipe de projeto desenvolve o produto.
+
+
+No período, normalmente com duração de 1 a 4 semanas, a equipe de projeto se concentra em desenvolver um incremento de produto funcional. Durante a sprint, a equipe trabalha nas tarefas do backlog da sprint, que são as tarefas selecionadas pelo time para serem concluídas durante a sprint.
+
+
+A reunião de revisão da sprint, também conhecida como Sprint Review, é uma oportunidade para a equipe Scrum refletir sobre o trabalho realizado na sprint anterior, compartilhar os resultados e receber feedback. É uma etapa muito importante no processo Scrum para promover a transparência e a colaboração entre os membros da equipe.
+
+Confira, a seguir, um passo a passo descomplicado para conduzir esse evento Scrum.
+
+Passo 1: Prepare a reunião
+
+Antes de iniciar a reunião, é importante se preparar adequadamente. Certifique-se de que a equipe de desenvolvimento tenha concluído todas as tarefas planejadas para a sprint e esteja pronta para compartilhar os resultados com os demais membros do time Scrum. Além disso, no caso de um encontro presencial, verifique se a sala de reunião está reservada e os recursos técnicos, como projetor ou tela de apresentação, estão funcionando corretamente. No caso de um encontro on-line, verifique se as ferramentas de que irá precisar estão funcionando.
+
+Passo 2: Convite aos participantes
+
+Envie convites aos membros do time Scrum, que incluem o Scrum Master, o Product Owner e a equipe de desenvolvimento. Certifique-se de que todos estejam cientes da data, do horário e do local da reunião.
+
+Passo 3: Inicie a reunião
+
+Inicie a reunião de revisão da sprint no horário marcado. Comece com uma breve introdução, explicando o propósito da reunião e os objetivos a serem alcançados.
+
+Passo 4: Demonstre as funcionalidades concluídas
+
+A equipe de desenvolvimento deve mostrar as funcionalidades concluídas durante a sprint. Isso pode ser feito por meio de uma demonstração prática do software desenvolvido ou exibindo os resultados em uma apresentação de slides. Certifique-se de que todas as funcionalidades sejam apresentadas de forma clara e compreensível.
+
+Passo 5: Receba feedback
+
+Após a apresentação das funcionalidades concluídas, é hora de receber feedback dos participantes. O Product Owner e outros membros do time Scrum podem fazer perguntas, fornecer comentários e sugerir melhorias. É importante encorajar uma discussão construtiva e garantir que todas as preocupações sejam ouvidas.
+
+Passo 6: Atualize o Product Backlog
+
+Com base no feedback recebido, a pessoa Product Owner deve atualizar o Product Backlog, que é a lista de itens a serem desenvolvidos futuramente. Os itens que foram concluídos na sprint devem ser marcados como concluídos e removidos do Product Backlog, enquanto os novos itens identificados durante a revisão da sprint devem ser adicionados.
+
+Passo 7: Encerre a reunião
+
+Após a discussão e a atualização do Product Backlog, encerre a reunião de revisão da sprint. É importante garantir que todos os tópicos tenham sido abordados e que haja um entendimento claro das próximas etapas a serem tomadas.
+
+Passo 8: Busque a melhoria contínua
+
+Após a reunião, a equipe Scrum deve realizar uma retrospectiva da sprint para identificar oportunidades de melhoria e implementar ações corretivas na próxima sprint. Esse é um passo importante para garantir um aperfeiçoamento contínuo do processo Scrum.
+
+
+A Sprint Retrospective, ou Retrospectiva, é de extrema importância no Scrum, pois é um evento dedicado à reflexão e à melhoria contínua. Durante a retrospectiva da sprint, a equipe tem a oportunidade de avaliar o que funcionou bem, identificar desafios e definir ações de melhoria para a próxima sprint. Essa prática permite que a equipe aprenda com suas experiências anteriores, aprimore seu processo de trabalho e promova a evolução contínua do time, resultando em um aumento da eficiência e da qualidade das entregas.
+
+
+Deve-se selecionar cuidadosamente os membros do time Scrum, considerando as suas habilidades, suas experiências, sua diversidade e seus valores.
+
+
+Montar uma equipe eficaz para o planejamento de um evento corporativo envolve selecionar cuidadosamente os membros da equipe, levando em consideração suas habilidades, suas experiências, sua diversidade e seus valores. Note que isso permite que a equipe possua as competências necessárias para lidar com os desafios do planejamento e a execução do evento, incluindo logística, marketing, finanças e comunicação. Além disso, garante que o time Scrum esteja alinhado em relação aos valores que embasam o framework.
+
+Colaborar intensamente em todas as etapas do projeto, sendo auto-organizado e multifuncional.
+
+
+A mentalidade correta de um time Scrum é de colaboração intensa, auto-organização e multifuncionalidade. Os membros do time Scrum trabalham juntos, compartilhando conhecimentos e habilidades para alcançar os objetivos do projeto, sendo responsáveis por se organizar, tomar decisões e entregar a solução funcionando.
