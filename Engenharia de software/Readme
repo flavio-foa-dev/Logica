@@ -137,3 +137,40 @@ A execução dos testes e build não deve se tornar uma razão para atrasar o bu
 Otimize build
 Tente respeitar o tempo de 10 minutos para o build (alguns falam de 5 minutos)
 Se o build for falhar, a ideia é que ele falhe o mais rápido possível.
+
+O servidor de integração contínua monitora o repositório de código
+Ao detectar uma alteração, deve iniciar o build do projeto
+O build deve acontecer a cada novo commit
+O resultado do build deve ser publicado
+Os desenvolvedores devem ser notificados sobre o status do build
+Um build quebrado deve ser arrumado em no máximo 10 minutos, com prioridade máxima
+É responsabilidade de todos da equipe arrumar um build quebrado
+
+A integração contínua é uma prática que faz parte da entrega contínua (continuous delivery - CD)
+A entrega contínua define uma série de práticas e padrões para construir e deployar a aplicação continuamente
+Não deve existir nenhum motivo técnico para impedir o deploy (apenas um motivo de negócio)
+Qualquer alteração no trunk principal é releasable (pode entrar em produção)
+A entrega contínua é uma evolução da integração contínua e envolve todo o ciclo do projeto, incluindo equipes de QA, deploy e operações
+a diferença entre a entrega contínua e o deploy contínuo é, que no deploy contínuo todas as alterações realmente entra em produção, o tempo todo
+DevOps é um movimento cultural, que visa a colaboração entre as equipes envolvidas no desenvolvimento e entrega de software, para melhorar a qualidade e velocidade do software
+DevOps é sobre colaboração, melhoria e aprendizagem contínua
+
+A entrega contínua:
+
+Visa diminuir todo o risco do deploy através de deploys frequentes e bem testados
+Normalmente é implementada através de um pipeline de entrega do software
+O pipeline representa o fluxo contínuo das alterações (valor) do código até o ambiente de produção
+Visa automatizar todo o processo do deploy e aplicar cada alteração
+O Deploy Contínuo coloca qualquer alteração em produção
+A Entrega Contínua não coloca qualquer alteração em produção, mas só por motivos de negócio
+
+Vimos que a base da Entrega Contínua é a Integração Contínua
+Vimos os princípios, que são:
+Automatize
+Versione
+Repita
+Garanta a qualidade
+Defina o "done"
+Crie o delivery team
+Use melhoria contínua
+Além disso, falamos os elementos mais importantes para implementar a entrega contínua, como a cultura DevOps, Pattern de deployment e mudanças arquiteturais.
