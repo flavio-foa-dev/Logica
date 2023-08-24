@@ -174,3 +174,30 @@ Defina o "done"
 Crie o delivery team
 Use melhoria contínua
 Além disso, falamos os elementos mais importantes para implementar a entrega contínua, como a cultura DevOps, Pattern de deployment e mudanças arquiteturais.
+
+Build/Commit stage
+Automated Acceptance Testing Stage (Testes de aceitação)
+User Acceptance Testing Stage (Homologação)
+As etapas build e AAT são totalmente automatizadas. UAT é manual.
+
+As etapas existem pois queremos receber feedback o mais rápido possível, ou seja, executamos os testes rápidos bem no início do pipeline.
+
+Também falamos sobre algumas boas práticas na construção e execução do pipeline:
+
+O pipeline é a única forma de deploy
+O desempenho do pipeline importa, ou seja, otimize-o
+Build do artefato no início e apenas uma vez
+O build deve ser independente do ambiente
+Ambientes deve ser iguais ou muito semelhantes ao de produção
+Use ambientes efêmeros (temporários) onde puder
+O deploy deve ser executado igual para qualquer ambiente
+
+Ambas as etapas executam os testes de maneira automatizada
+O stage de commit foca nos testes de unidade e integração.
+O stage AAT foca nos testes funcionais, que testam o sistema todo, baseado em um requisito
+O commit stage deve executar rápido (menos de 10 minutos) e iniciar a cada commit
+O stage AAT inicia quando commit stage foi executado com sucesso
+O stage AAT é mais demorado
+Os testes de aceitação são mais caros de escrever e manter, mas trazem muito valor, pois testam o sistema todo. Os testes de aceitação são escritos pela equipe inteira (analista, desenvolvedor, etc).
+
+Quando um build quebra, todos são responsáveis. Consertar o problema é prioridade da equipe.
