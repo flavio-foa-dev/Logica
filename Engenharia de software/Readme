@@ -234,3 +234,44 @@ Planejamento do produto, Planejamento da Sprint, Execução da Sprint, Revisão 
 
 Compreensão do negócio e das necessidades dos clientes e usuários.
 Essa é uma característica fundamental para uma pessoa que deseja ser Product Owner, uma vez que precisa entender o contexto de negócio em que o produto será utilizado e também as necessidades de clientes e usuários. Esse conhecimento é básico para poder tomar decisões assertivas sobre o product backlog, garantindo que o produto atenda aos requisitos e aos objetivos de negócio.
+
+Auxiliar o time a entender e seguir as práticas e os valores do Scrum.
+A principal responsabilidade de uma pessoa Scrum Master é auxiliar o time a entender e seguir os processos e os valores do Scrum, promovendo uma cultura ágil e facilitando a adoção das melhores práticas pela equipe. Esse trabalho envolve atuar como uma pessoa facilitadora, para garantir que o time se comunique de forma eficaz, colabore e trabalhe em conjunto para alcançar os objetivos da Sprint e do projeto como um todo.
+
+No Scrum, os papéis são fundamentais para a aplicação eficiente do framework. O Scrum define três papéis principais: o Product Owner, o Scrum Master e a equipe de Desenvolvimento. Cada papel tem responsabilidades específicas e contribui para o sucesso do projeto.
+
+Agora, relembre o problema que você apontou no desafio passado para ser resolvido com Scrum e elenque quem seriam as pessoas que assumiriam cada um dos papéis do framework nesse contexto específico. Explique porque você acha que cada uma dessas pessoas é a ideal para desempenhar os papéis de Product Owner, Scrum Master ou fazer parte do time de desenvolvimento.
+
+
+Nome do projeto: Plataforma de Aprendizado Online
+
+Visão Geral: A empresa EduTech é uma startup que deseja criar uma plataforma de aprendizado on-line para oferecer cursos e treinamentos para profissionais de tecnologia da informação. A plataforma será uma solução inovadora para aqueles que desejam aprimorar suas habilidades em programação, segurança cibernética, gerenciamento de projetos e outras áreas relacionadas à TI.
+
+Objetivos de Negócio:
+
+Tornar-se líder de mercado no segmento de aprendizado on-line para profissionais de TI;
+Oferecer uma ampla variedade de cursos e treinamentos, com alta qualidade de conteúdo e experiência do usuário;
+Atrair um grande número de usuários registrados e aumentar a base de clientes pagantes;
+Fornecer uma plataforma intuitiva, interativa e fácil de usar, que possibilite o aprendizado flexível e acessível a qualquer momento e em qualquer lugar;
+Proporcionar um ambiente de aprendizado colaborativo, com recursos de comunicação entre as pessoas estudantes e instrutoras dos cursos.
+Descrição do Produto: a plataforma de aprendizado on-line será desenvolvida como uma aplicação web responsiva e também terá aplicativos móveis para dispositivos iOS e Android. Ela oferecerá uma ampla variedade de cursos e treinamentos, com diferentes níveis de dificuldade e formatos, como aulas em vídeo, tutoriais, exercícios práticos e questionários de avaliação.
+
+No case fictício apresentado, o product backlog da plataforma de aprendizado on-line poderia incluir os seguintes itens:
+
+Criação de conta e perfil do usuário: os usuários poderão criar uma conta, preencher seu perfil com informações pessoais, interesses e preferências de aprendizado, além de ter acesso ao painel de controle do aluno.
+
+Catálogo de cursos: as pessoas estudantes poderão navegar pelo catálogo de cursos, visualizar detalhes sobre os cursos, como descrição, instrutor, duração, pré-requisitos, avaliações e preço.
+
+Compra de cursos: as pessoas estudantes poderão comprar cursos individuais ou se inscrever em planos de assinatura para acesso a múltiplos cursos. Será necessário integrar a plataforma com um sistema de pagamento seguro e confiável.
+
+Acesso aos cursos: as pessoas estudantes terão acesso aos cursos adquiridos ou aos quais estão inscritas em seu painel de controle. Elas poderão assistir às aulas em vídeo, ler materiais de apoio, realizar exercícios e questionários e acompanhar seu progresso de aprendizado.
+
+Recursos de aprendizado colaborativo: as pessoas estudantes poderão se comunicar com as pessoas instrutoras e outras estudantes por meio de fóruns de discussão, salas de chat ou outras ferramentas de comunicação integradas à plataforma.
+
+Sistema de avaliação de cursos: as pessoas estudantes poderão avaliar os cursos que concluírem, fornecendo feedback sobre a qualidade do conteúdo, do instrutor e da experiência do usuário. Essas avaliações ajudarão outros usuários a tomar decisões informadas sobre quais cursos escolher.
+
+Recursos de suporte a clientes: as pessoas estudantes podem acessar o suporte ao enfrentar qualquer dificuldade ou erro dentro da plataforma.
+
+Isso não significa que outros ítens não possam ser adicionados neste caso, detalhando ainda mais o product backlog. Porém, os ítens citados acima seriam os mais importantes em um produto como uma plataforma de aprendizagem online. A ordem desses ítens também poderia ser alterada.
+
+Agora, se a sua resposta não foi exatamente como essa, não tem problema! O importante é você saber identificar que um product backlog eficiente deve ser detalhado, listando toda e qualquer funcionalidade e aspecto que um produto ou solução deva ter para funcionar bem e gerar valor para o seu usuário.
